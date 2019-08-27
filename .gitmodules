@@ -1,0 +1,3 @@
+[submodule "my_plugins/vim-ps1"]
+	path = my_plugins/vim-ps1
+	url = https://github.com/PProvost/vim-ps1.git
