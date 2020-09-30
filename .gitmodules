@@ -1,3 +1,6 @@
 [submodule ".\\sources_non_forked\\typescript-vim"]
 	path = .\\sources_non_forked\\typescript-vim
 	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "sources_non_forked/vim-ps1"]
+	path = sources_non_forked/vim-ps1
+	url = https://github.com/PProvost/vim-ps1.git
