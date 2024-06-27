@@ -12,3 +12,5 @@ au BufRead,BufNewFile *.jenkinsfile set syntax=groovy
 if has('gui_running')
     set guifont=Fira_Code_Retina:h10:cANSI:qDRAFT
 endif
+
++autocmd BufEnter * lcd %:p:h
